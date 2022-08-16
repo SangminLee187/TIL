@@ -1,3 +1,13 @@
 # TIL
 
-* [MarkDown작성법.md](https://github.com/SangminLee187/TIL/blob/main/MarkDown%EC%9E%91%EC%84%B1%EB%B2%95.md)
+#### 시작일
+_2022 08 16_
+
+#### 시작의도
+* 평소 이면지를 사용해서 공부하지만 개발자라면... 이런곳에 정리하는것도 좋지
+* 공부한 내용을 보관하기 어렵고 다시 찾아보기 어려우니 깃헙을 사용해보자
+* 공부했던 것/ 공부한 것/ 갑자기 궁금해서 찾아본것 정리해보자
+* *이 행위가 위대한 시작일지 모르니까..*
+
+## 구성
+#### [MarkDown작성법.md](https://github.com/SangminLee187/TIL/blob/main/MarkDown%EC%9E%91%EC%84%B1%EB%B2%95.md)
