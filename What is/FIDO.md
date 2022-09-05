@@ -8,7 +8,7 @@
 ## 개념
 * FIDO(파이도)는 공개키 암호화 방식을 활용하여 안전하면서도 **간편한 인증**을 제공하기 위한 인증의 표준
 * 개방적, 상호운용, 확장 가능하도록 설계
-* 모든 FIDO 프로토콜에서는 **등록(Registration)**과 **인증(Authentication)**이라는 두가지 주요 flow가 있음
+* 모든 FIDO 프로토콜에서는 **등록(Registration)** 과 **인증(Authentication)** 이라는 두가지 주요 flow가 있음
 * 구현방식에 따라 UAF, U2F, FIDO 2.0으로 표준이 있음
 * 지문인식, 홍채인식, 얼굴인식 등
 * ![image](https://user-images.githubusercontent.com/97998574/188109846-7e8eb2a8-f6ec-4649-a30e-47c398efd9e9.png)
