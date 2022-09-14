@@ -23,7 +23,7 @@
 ## 개념적 모델링 (도구: ovenapp, drawIO)
 * 달성하고자 하는 목표에 어떤 개념들이 존재하고, 개념간의 상호작용을 판단
 * ERD : Entity Relationship Diagram
-  - 정보, 그룹, 관계를 표현하는 방법
+   - 정보, 그룹, 관계를 표현하는 방법
   - Entity - Table, Attribute - Column, Relation - PK,Fk, Tuple - Row
   - 식별자 선정 : 그 대상과 같은 값을 가지고 있으면 안된다. 고유하다. 후보키, 기본키, 대체키
   - Entity간 상호 관계를 정의해야함 (예. 일대일, 다대일, 필요, 충분)
